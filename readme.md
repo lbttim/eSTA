@@ -33,19 +33,19 @@ Supports **Slovenian and English** languages.
 ## Screenshots / Demo
 
 ### Main Page
-![Main Page](images/main.png)
+![Main Page](screenshots/main.png)
 
 ### Units List
-![Units List](images/units.png)
+![Units List](screenshots/units.png)
 
 ### Sectors List
-![Sectors List](images/sectors.png)
+![Sectors List](screenshots/sectors.png)
 
 ### Add New Unit
-![Add New Unit](images/new_unit.png)
+![Add New Unit](screenshots/new_unit.png)
 
 ### Dismiss Unit
-![Dismiss Unit](images/dismiss.png)
+![Dismiss Unit](screenshots/dismiss.png)
 
 ---
 
