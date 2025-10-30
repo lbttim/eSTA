@@ -1,6 +1,8 @@
 # eSTA – Electronic Staging Area
 
-**eSTA** (Electronic Staging Area) is a **web application designed for managing large teams and resources during extended incidents**. It enables **Staging Area Teams (STT)**, **headquarters**, and **incident command** to track units, update statuses, and coordinate operations efficiently—**without relying on paper, spreadsheets, or constant internet connectivity**.
+**eSTA** (Electronic Staging Area) is a **web application designed for managing large teams and resources during extended incidents**.  
+It enables **Staging Area Teams (STT)**, **headquarters**, and **incident command** to track units, update statuses, and coordinate operations efficiently—**without relying on paper, spreadsheets, or constant internet connectivity**.  
+Supports **Slovenian and English** languages.
 
 > This repository is for presentation purposes only. No source code is included.
 
@@ -8,53 +10,61 @@
 
 ## Key Features
 
-- **Offline-First, Real-Time Sync**  
-  All data is synchronized across multiple devices and users, even when there is no internet connection, ensuring everyone sees the latest updates.
+- **Offline-First, Multi-User Sync**  
+  All data is synchronized across multiple devices and users, even without internet, ensuring everyone sees the latest updates.
 
 - **Unit Management**  
-  Add, update, and track units including personnel, equipment, and status.
-
-- **Status Updates**  
-  Units’ status can be updated by STT, headquarters, or intervention teams.
-
-- **Injuries & Equipment Reporting**  
-  Record any injuries or equipment damage when units are dismissed.
+  Add, update, track, and dismiss units including personnel, equipment, and status.
 
 - **Sector & Group Management**  
   Organize units into sectors and functional groups for efficient command.
 
+- **Status Updates & Reporting**  
+  Update unit statuses, record injuries, and document equipment damage.
+
 - **Multi-channel Communication**  
-  Data can be transmitted over the internet or via Motorola DMR radio networks, keeping headquarters in sync.
+  Supports internet or Motorola DMR radio networks to keep headquarters in sync.
 
 - **Situational Dashboard**  
-  Headquarters and intervention chiefs can monitor incident stats and unit distribution in real-time.
+  Monitor unit distribution, statuses, and incident stats in real-time.
+
+---
+
+## Screenshots / Demo
+
+### Main Page
+![Main Page](images/main.png)
+
+### Units List
+![Units List](images/units.png)
+
+### Sectors List
+![Sectors List](images/sectors.png)
+
+### Add New Unit
+![Add New Unit](images/new_unit.png)
+
+### Dismiss Unit
+![Dismiss Unit](images/dismiss.png)
 
 ---
 
 ## How It Works
 
 1. **Setup** – STT connects Motorola radio station to the device hosting eSTA.  
-2. **Unit Tracking** – Add units, update their status, and monitor locations in real-time.  
-3. **Multi-user Sync** – Data is automatically synced between devices, ensuring all users see the same information, even offline.  
-4. **Incident Coordination** – Units are organized into sectors/groups, enabling effective command decisions.  
-5. **Reporting** – Document injuries, equipment damage, and unit dismissals.  
-6. **Command Dashboard** – Headquarters receive live updates and situational stats.
+2. **Unit Tracking** – Add and update units; monitor locations in real-time.  
+3. **Multi-User Sync** – Changes automatically sync across all devices, even offline.  
+4. **Incident Coordination** – Units organized into sectors/groups for effective command decisions.  
+5. **Reporting** – Document injuries, equipment damage, and dismissals.  
+6. **Command Dashboard** – Headquarters receive live updates and stats.
 
 ---
 
 ## Designed for Long Interventions
 
-eSTA is built for **extended, large-scale incidents**:  
-
 - Supports **large numbers of units and personnel**  
 - Eliminates reliance on spreadsheets or paper logs  
-- Keeps data consistent and accessible for **all users, even in remote locations**  
-
----
-
-## Screenshots / Demo
-
-*Add screenshots or GIFs of your app here to showcase the interface and workflow.*
+- Data is always **consistent and accessible for all users**, even in remote areas  
 
 ---
 
@@ -69,4 +79,5 @@ eSTA is built for **extended, large-scale incidents**:
 ## Notes
 
 - eSTA is designed for **high-pressure, long-duration incidents** where real-time coordination and data accuracy are critical.  
-- The app supports **offline-first multi-user sync** and both internet and radio-based communication for maximum field reliability.
+- The app supports **offline-first multi-user sync** and both internet and radio-based communication for maximum field reliability.  
+
