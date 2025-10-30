@@ -32,12 +32,14 @@ Supports **Slovenian and English** languages.
 
 ## Standards & Methodology
 
-eSTA is designed following established incident management frameworks:
+eSTA follows the **Intervencijsko Poveljniški Sistem (IPS)** framework, the Slovenian version of ICS. This ensures:
 
-- **Incident Command System (ICS)** – Provides a standardized hierarchy and operational structure for large incidents.  
-- **Incident/Intervention Processing System (IPS)** – Ensures clear workflows for unit tracking, reporting, and resource management.  
+- Clear hierarchy and responsibilities for all units  
+- Standardized workflows for unit tracking, reporting, and dismissal  
+- Efficient coordination and situational awareness for long-duration, large-scale interventions  
 
-By building on these frameworks, eSTA ensures **efficient coordination, clear responsibilities, and reliable situational awareness** during long and complex interventions.
+By following IPS principles, eSTA provides **reliable operational control and communication**, even in complex incidents.
+
 
 ---
 
