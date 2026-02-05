@@ -1,4 +1,4 @@
-# eSTA – Electronic Staging Area (Elektronsko Sprejemno Mesto)
+# eSTA – Electronic Staging Area
 
 **eSTA** is a mission-critical tactical resource management system designed for **Staging Area Teams (STT)**, incident commanders, and logistics officers. It replaces traditional paper logs and static spreadsheets with a dynamic, real-time digital environment tailored for high-pressure, long-duration emergency interventions.
 
