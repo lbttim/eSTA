@@ -66,7 +66,7 @@ The system is built strictly around ICS/IPS principles:
 | Tactical Sector Management | Fatigue & Workload Monitor | Professional Dismissal Logs |
 | :--- | :--- | :--- |
 | ![Sectors List](screenshots/sektorji.png) | ![Workload Monitor](screenshots/obremenitve.png) | ![Dismissal Form](screenshots/odpust.png) |
-| **Visual Mapping:** Interactive overview of geographical sectors, assigned leaders, and live unit distribution. | **Crew Safety:** Real-time analytics of work-to-rest ratios to prevent team exhaustion. | **Audit Trail:** Capture damage reports and injuries while generating official PDF discharge papers. |
+| **Visual Mapping:** Interactive overview of sectors, assigned leaders, and live unit distribution. | **Crew Safety:** Real-time analytics of work-to-rest ratios to prevent team exhaustion. | **Audit Trail:** Capture damage reports and injuries while generating official PDF discharge papers. |
 
 ---
 
