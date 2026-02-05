@@ -61,6 +61,15 @@ The system is built strictly around ICS/IPS principles:
 
 ---
 
+## 📸 Interface & Core Modules
+
+| Tactical Sector Management | Fatigue & Workload Monitor | Professional Dismissal Logs |
+| :--- | :--- | :--- |
+| ![Sectors List](screenshots/sektorji.png) | ![Workload Monitor](screenshots/obremenitve.png) | ![Dismissal Form](screenshots/odpust.png) |
+| **Visual Mapping:** Interactive overview of geographical sectors, assigned leaders, and live unit distribution. | **Crew Safety:** Real-time analytics of work-to-rest ratios to prevent team exhaustion. | **Audit Trail:** Capture damage reports and injuries while generating official PDF discharge papers. |
+
+---
+
 ## 📞 Get in Touch
 
 > **Notice:** This repository is for **presentation purposes only**. The source code is not publicly available to ensure the integrity and security of the systems used by active emergency services.
